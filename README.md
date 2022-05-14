@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @gayatrisb
-- 👀 I’m interested in machine learning, Deep learning, data science
-- 🌱 I’m currently learning data science master
-- 💞️ I’m looking to collaborate on data analysis projects
+- 👋 Hi, I am @gayatrisb
+- 👀 I am interested in Python, Machine Learning, Deep Learning, Data Science
+- 🌱 I am currently learning Data Science Master
+- 💞️ I am looking to collaborate on data analysis projects
 - 📫 How to reach me gayathriballari786@gmail.com
 
 <!---
