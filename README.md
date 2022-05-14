@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gayatrisb123
+- 👋 Hi, I’m @gayatrisb
 - 👀 I’m interested in machine learning, Deep learning, data science
 - 🌱 I’m currently learning data science master
 - 💞️ I’m looking to collaborate on data analysis projects
